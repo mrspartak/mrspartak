@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**mrspartak/mrspartak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```typescript
+const user: GithubUser {
+  name: 'Spartak',
+  location: 'Amsterdam, Netherlands',
+  experience: 'senior full-stack engineer',
+  stack: ['JavaScript', 'TypeScript', 'NodeJS', 'VueJS', 'Hasura', 'PostgresSQL', 'MySQL', 'MongoDB'],
+  additionalStack: ['GoLang', 'Python', 'C++', 'PHP', 'CI'],
+  contact: 'assorium[at]gmail.com'
+}
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrspartak&show_icons=true&theme=dracula">
+<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrspartak&theme=dracula&layout=compact">
